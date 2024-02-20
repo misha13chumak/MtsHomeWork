@@ -1,0 +1,12 @@
+application:
+  animal-data:
+    names: [ Buddy, Baxter, Jake, Daisy, Cooper, Luke, Max, Oliver, Rocky, Charlie ]
+    dog-breeds: [ Terrier, Boxer, Bolognese, Bulldog, Chihuahua, Collie, Mops,
+                  Spitz, Labrador, Mastiff ]
+    cat-breeds: [ Siamese, Persian, Sphynx, Asian, Bengal, Burmilla, Foldex,
+                  German Rex, Kinkalow, Minskin ]
+    shark-breeds: [ Dogfish, Angel, Sawsharks, Bullhead, Carpet, Ground, Bali catshark,
+                    Blind, Blue, Borneo ]
+    wolf-breeds: [Tundra, Arabian, Steppe, Himalayan, Mongolian, Eurasian, Indian,
+                  Arctic, Mexican, Eastern ]
+    characters: [ Friendly, Playful, Aggressive, Calm, Energetic]
